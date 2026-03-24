@@ -19,3 +19,7 @@ The save system provides an easy way to save your game state with a simple objec
 
 ## Scene Manager & Loading Screen
 Load your scenes and sync your data with ease using the Scene Manager and display progress through a highly customizable loading screen. Load scenes asynchronously and initialize your scenes while tracking load progress.
+
+
+## Example
+To view the example without much setup, clone this repository and just click play.
