@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49786a520e4b48d3b33ca2e9b0af6fa4, type: 3}
+  m_Name: LSS_01
+  m_EditorClassIdentifier: Assembly-CSharp::com.matheusbosc.utilities.LoadingScreenStyle
+  accentColor: {r: 0.22014059, g: 0.60890436, b: 0.9150943, a: 1}
+  loadingTextLocation: 1025
+  levelTextLocation: 1025
+  levelText: Level 1
+  tipText: Customize this text
+  loadingBarLocation: 2
+  backgroundImage: {fileID: 21300000, guid: 4f118ea3c1f86fc57816961a0e325b57, type: 3}
